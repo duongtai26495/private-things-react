@@ -1,0 +1,20 @@
+body, #root{
+  min-height: 100vh;
+}
+
+.navigation-wrapper{
+  min-width: 200px;
+  border-right: .5px solid rgba(0,0,0,.1);
+  min-height: 100vh;
+}
+
+.authen-form{
+  margin-top: 15%;
+}
+
+.profile_image{
+  width: 100px;
+  height: 100px;
+  max-width: 100%;
+  max-height: 100%;
+}
